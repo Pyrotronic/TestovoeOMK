@@ -1,0 +1,12 @@
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\bin\Debug\net8.0\TestovoeZavod.deps.json
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\bin\Debug\net8.0\TestovoeZavod.dll
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\bin\Debug\net8.0\TestovoeZavod.pdb
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\TestovoeZavod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\TestovoeZavod.AssemblyInfoInputs.cache
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\TestovoeZavod.AssemblyInfo.cs
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\TestovoeZavod.csproj.CoreCompileInputs.cache
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\TestovoeZavod.dll
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\refint\TestovoeZavod.dll
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\TestovoeZavod.pdb
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\ref\TestovoeZavod.dll
+C:\Users\Pyrotronic\source\repos\TestovoeZavod\obj\Debug\net8.0\TestovoeZavod.csproj.AssemblyReference.cache
